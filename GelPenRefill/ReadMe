@@ -1,0 +1,5 @@
+3d printed pen holder using gel pen refills. 
+PenHolder_Gel.3mf contains all of the printed parts and can be directly used in Bambu Studio. The AXA_02 part contains support blockers as supports are too hard to remove from small or threaded holes.
+Step files of the individual parts are included as well as the master Fusion file.
+8 M3x8mm SHCS are used to hold Base_MGN12H to the linear slide carriages. 1 M3x10mm SHCS is used to hold Base_MGN12H to AXA_02.  4 M3x10mm (or 12mm) SHCS are used to hold the MGN12H linear rail to AXA_02.
+Gel pen refills are 0.156" (5/32) diameter.
